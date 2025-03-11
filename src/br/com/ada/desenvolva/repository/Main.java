@@ -1,4 +1,4 @@
-package br.com.ada.desenvolva;
+package br.com.ada.desenvolva.repository;
 
 import br.com.ada.desenvolva.model.Carro;
 import br.com.ada.desenvolva.model.Pessoa;
