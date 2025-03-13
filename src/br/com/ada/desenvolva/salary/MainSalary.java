@@ -17,6 +17,7 @@ public class MainSalary {
         var week = workWeek(scanner);
         var salary = week.salary();
         System.out.println("O seu salário da semana é de " + salary);
+        scanner.close();
     }
 
     private static WorkWeek workWeek(Scanner scanner) {
